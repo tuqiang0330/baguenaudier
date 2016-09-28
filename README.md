@@ -9,6 +9,9 @@
         baguenaudier.py up/down n [-a]
 
 up: 上n连环
+
 down: 下n连环
+
 n: n连环
+
 -a: 动画模式
